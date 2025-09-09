@@ -1,6 +1,6 @@
 # Full Stack Application: Hog Bank
 
-### [My Visualizations](https://public.tableau.com/app/profile/ethan.ericson/vizzes)
+### [Data Dictionary](https://github.com/eericson2005/Full-Stack-Application-Hog-Bank/blob/6d773807c543a7a760359ba9c83ddf2c78d90c27/Foxtrot_Data_Dictionary.xlsx)
 ### [PowerPoint Presentation](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Final_Presentation.pdf)
 ### [Infographic](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Infographic.pdf)
 ### [Written Portfolio](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Written_Portfolio.pdf)
