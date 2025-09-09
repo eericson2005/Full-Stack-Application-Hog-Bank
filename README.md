@@ -1,9 +1,12 @@
 # Full Stack Application: Hog Bank
 
 ### [Data Dictionary](https://github.com/eericson2005/Full-Stack-Application-Hog-Bank/blob/6d773807c543a7a760359ba9c83ddf2c78d90c27/Foxtrot_Data_Dictionary.xlsx)
+### [Entity Relationship Diagram](https://github.com/eericson2005/Full-Stack-Application-Hog-Bank/blob/dcb4cc4be321ec8a55bb464f7c4c5aafea061c6b/Foxtrot_ERD.png)
+### [SQL Queries](https://github.com/eericson2005/Full-Stack-Application-Hog-Bank/blob/dcb4cc4be321ec8a55bb464f7c4c5aafea061c6b/Foxtrot_SQL_Queries.docx)
+### Application Code
+### [User Manual](https://github.com/eericson2005/Full-Stack-Application-Hog-Bank/blob/dcb4cc4be321ec8a55bb464f7c4c5aafea061c6b/Foxtrot_User_Manual.docx)
 ### [PowerPoint Presentation](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Final_Presentation.pdf)
-### [Infographic](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Infographic.pdf)
-### [Written Portfolio](https://github.com/eericson2005/Toilets-In-Australia/blob/9659ea86963a0f64aa34911c282d86ac18a8366a/G7_Written_Portfolio.pdf)
+
 
 ## Description
 In this project, I lead a team of five data scientists as we investigated the location of public toilets in Australia. We conducted this research with the aim of understanding how people’s basic hygiene needs were being met by public infrastructure across the country. We measured this quality across five dimensions:
